@@ -9,7 +9,7 @@ Welcome to my academic portfolio for CEP146NAA!
 - Favorite Programming Language: Python
 
 ## Course Goals
-- [ ] Learn version control with Git and GitHub
+- [ ] Learn version control with Git and GitHub <!-- I really like the formatting, the check bubbles are easy to read -->
 - [ ] Complete all lab assignments
 - [ ] Build a professional portfolio
 - [ ] Collaborate on group projects

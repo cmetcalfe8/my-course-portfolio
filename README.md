@@ -8,7 +8,7 @@ Welcome to my academic portfolio for CEP146NAA!
 - Year: 2026/2027
 - Favorite Programming Language: Python
 
-## Course Goals
+## Course Goals <!-- I really like the check box format, very easy to read -->
 - [ ] Learn version control with Git and GitHub
 - [ ] Complete all lab assignments
 - [ ] Build a professional portfolio
